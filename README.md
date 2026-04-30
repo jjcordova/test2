@@ -1,4 +1,7 @@
 # Define the content for the README.md file
+
+Esta prueba de como se versiona un documento, y lo guardamos en git
+
 readme_content = """# Sistema de Programa de Lealtad (Loyalty Program System)
 
 ¡Bienvenido al repositorio inicial del **Programa de Lealtad**! Este proyecto tiene como objetivo diseñar y desarrollar una plataforma integral para gestionar la retención de clientes, recompensar la fidelidad y analizar el comportamiento de compra.
